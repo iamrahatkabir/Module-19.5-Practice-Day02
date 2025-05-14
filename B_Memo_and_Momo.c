@@ -19,7 +19,7 @@ int main()
     }
     else if(a%k != 0 && b%k != 0)
     {
-        printf("No One");
+        printf("Momo");
     }
 
     
